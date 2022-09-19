@@ -1,0 +1,26 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "使用vuepress2.0搭建的静态博客模板",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerojs/book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerojs/book/issues"
+  },
+  "homepage": "https://github.com/zerojs/book#readme",
+  "devDependencies": {
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.51",
+    "@vuepress/plugin-search": "^2.0.0-beta.51",
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
