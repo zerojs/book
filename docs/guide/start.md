@@ -1,4 +1,4 @@
-这是 guile 中的 start.md
+这是 guide 中的 start.md
 
 
 
